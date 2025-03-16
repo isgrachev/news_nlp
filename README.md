@@ -1,1 +1,1 @@
-# cian_nlp
+# news_nlp
