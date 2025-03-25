@@ -1,1 +1,1 @@
-from custom_tokenizer import CustomTokenizer
+from .custom_tokenizer import CustomTokenizer
